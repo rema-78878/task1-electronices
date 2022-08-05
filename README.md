@@ -20,3 +20,9 @@ void loop() {}
 
 and this code will make the servo rotate at an angle of 90 degrees.
 
+
+part 2: turn on the brushless motor:
+to run the brushless motor you will need:
+* relay
+* arduino
+* power source
